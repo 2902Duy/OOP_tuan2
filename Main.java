@@ -2,8 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        person duy = new person(1,"Duy",20,65);
-        person triet = new person(2,"Triet",13,50);
-        person khoa = new person(3,"Khoa",20,70);
+        rabit ra_while = new rabit(1,"while","cave");
+        tiger tiger_orange = new tiger(2,"orange","jungle");
+        cow cow_bw = new cow(3,"BW","fram");
     }
 }
